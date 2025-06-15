@@ -1,0 +1,17 @@
+Date and Time: 2025-03-31 03:07:34
+Internal Temperature: 25.14°C
+External Temperature: 19.0°C
+Internal Humidity: 55.89%
+External Illuminance: 506.8 W/m²
+Internal CO2: 0.0623%
+Internal Oxygen: 6.09%
+
+Date and Time: 2025-03-31 12:50:31
+Internal Temperature: 27.8°C
+External Temperature: 20.07°C
+Internal Humidity: 59.28%
+External Illuminance: 696.46 W/m²
+Internal CO2: 0.0434%
+Internal Oxygen: 6.26%
+
+

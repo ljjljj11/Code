@@ -1,0 +1,56 @@
+Date and Time: 2025-04-14 03:26:15
+Internal Temperature: 21.82°C
+External Temperature: 15.51°C
+Internal Humidity: 50.15%
+External Illuminance: 640.42 W/m²
+Internal CO2: 0.0869%
+Internal Oxygen: 6.25%
+
+Date and Time: 2025-04-14 03:26:20
+Internal Temperature: 27.87°C
+External Temperature: 14.81°C
+Internal Humidity: 53.32%
+External Illuminance: 602.92 W/m²
+Internal CO2: 0.022%
+Internal Oxygen: 4.62%
+
+Date and Time: 2025-04-14 03:26:25
+Internal Temperature: 19.75°C
+External Temperature: 12.33°C
+Internal Humidity: 58.08%
+External Illuminance: 574.76 W/m²
+Internal CO2: 0.0411%
+Internal Oxygen: 4.95%
+
+Date and Time: 2025-04-14 03:26:30
+Internal Temperature: 20.18°C
+External Temperature: 9.8°C
+Internal Humidity: 59.28%
+External Illuminance: 616.11 W/m²
+Internal CO2: 0.0262%
+Internal Oxygen: 6.69%
+
+Date and Time: 2025-04-14 03:26:35
+Internal Temperature: 22.54°C
+External Temperature: 8.68°C
+Internal Humidity: 51.5%
+External Illuminance: 690.56 W/m²
+Internal CO2: 0.0228%
+Internal Oxygen: 4.26%
+
+Date and Time: 2025-04-14 03:26:40
+Internal Temperature: 27.94°C
+External Temperature: 14.47°C
+Internal Humidity: 59.57%
+External Illuminance: 712.64 W/m²
+Internal CO2: 0.0904%
+Internal Oxygen: 6.87%
+
+Date and Time: 2025-04-14 03:26:45
+Internal Temperature: 26.34°C
+External Temperature: 16.26°C
+Internal Humidity: 51.71%
+External Illuminance: 659.68 W/m²
+Internal CO2: 0.0511%
+Internal Oxygen: 6.79%
+
