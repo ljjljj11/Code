@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <a href="/question/create">질문 등록</a>
+  <ul>
+    {% for q in question_list %}
+      <li>
+        <a href="/question/{{ q.id }}">{{ q.subject }}</a>
+        ({{ q.create_date }})
+      </li>
+    {% else %}
+      <li>등록된 질문이 없습니다.</li>
+    {% endfor %}
+  </ul>
+{% endblock %}
