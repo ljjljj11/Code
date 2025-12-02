@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <h2>{{ question.subject }}</h2>
+  <p>{{ question.content }}</p>
+  <p>작성일: {{ question.create_date }}</p>
+
+  <p><a href="/question/">목록으로</a></p>
+{% endblock %}
